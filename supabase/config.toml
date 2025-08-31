@@ -1,0 +1,4 @@
+project_id = "hstflhelvdajwlcdtveq"
+
+[functions.ai-health-assistant]
+verify_jwt = false
